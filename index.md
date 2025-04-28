@@ -3,3 +3,5 @@
 ###### So I guess this is the smallest size?
 ####### What if I add one more, what will happen? Ah, so it didn't work.
 ###### I hope this message is meaningful enough
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
